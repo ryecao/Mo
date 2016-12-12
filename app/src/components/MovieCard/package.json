@@ -1,0 +1,6 @@
+{
+  "name": "MovieCard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MovieCard.js"
+}
